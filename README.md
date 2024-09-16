@@ -1,4 +1,6 @@
 #  Clima
+<img width="420" alt="Screenshot 2024-09-16 at 7 28 38 PM" src="https://github.com/user-attachments/assets/f6597165-a544-4f71-948d-334209c55578">
+
 
 ## Our Goal
 
